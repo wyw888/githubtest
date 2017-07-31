@@ -1,3 +1,7 @@
 MyBranch
 master
+<<<<<<< HEAD
 2
+=======
+1
+>>>>>>> MyBranch
