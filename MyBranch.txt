@@ -1,2 +1,7 @@
 MyBranch
+<<<<<<< HEAD
 2
+=======
+master
+1
+>>>>>>> d5ff853d94f8c12e0bf687e7c77e2f98bcd33f84
